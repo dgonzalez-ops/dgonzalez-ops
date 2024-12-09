@@ -5,7 +5,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 👨‍💻 &nbsp;I am Currently studying Design and development of web applications .\
-🎓 &nbsp;Graduated on Systems and Network Administration las year.\
+🎓 &nbsp;Graduated on Systems and Network Administration last year.\
 📍 &nbsp;I was born in Madrid, Spain and currently still live here.\
 💡 &nbsp;Intrested in self-learning Cybersecurity and Robotics .\
 🌱 &nbsp;Looking for some OpenSource Projects to start contributing to the community.\
