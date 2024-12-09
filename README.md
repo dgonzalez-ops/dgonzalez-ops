@@ -1,4 +1,6 @@
 ## Hi there, I'am Diego Gonzalez 👋
+<!-- banner y alinear el texto de arriba al centro -->
+<img src="https://www.codewars.com/users/dgonzalez-ops/badges/large" alt="Diego Gonzalez Codewars Kyu">
 
 ### 👨🏻‍💻 &nbsp;About Me
 
