@@ -3,8 +3,6 @@
         <img src="https://readme-typing-svg.herokuapp.com?color=%ffffff&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Diego+%F0%9F%91%8B;Programmer+and+Sys+Admin;Problem+Solver;Open-Source+Enthusiast" alt="Headline" />
 </div>
 
-![GitHub followers](https://img.shields.io/github/followers/dgonzalez-ops?style=social&logo=github)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dgonzalez-ops" alt="akhilgkrishnan"/></p>
 <!-- banner y alinear el texto de arriba al centro. -->
 <img src="https://www.codewars.com/users/dgonzalez-ops/badges/large" alt="Diego Gonzalez Codewars Kyu">
