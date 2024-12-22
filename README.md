@@ -3,8 +3,10 @@
         <img src="https://readme-typing-svg.herokuapp.com?color=%ffffff&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Diego+%F0%9F%91%8B;Programmer+and+Sys+Admin;Problem+Solver;Open-Source+Enthusiast" alt="Headline" />
 </div>
 
+![Banner](https://github.com/dgonzalez-ops/dgonzalez-ops/blob/master/assets/BannerGithub.png)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dgonzalez-ops" alt="akhilgkrishnan"/></p>
-<!-- ![Banner](https://github.com/Adityakanoi2001/Adityakanoi2001/blob/8b3abf28d4d62728caf9ee9c177f48b058cbb997/assets/ASK%20Banner%20Image%20Github.png)-->
+
 <img src="https://www.codewars.com/users/dgonzalez-ops/badges/large" alt="Diego Gonzalez Codewars Kyu">
 
 ## 👨🏻‍💻 &nbsp;About Me
