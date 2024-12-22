@@ -4,7 +4,7 @@
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dgonzalez-ops" alt="akhilgkrishnan"/></p>
-<!-- banner y alinear el texto de arriba al centro. -->
+<!-- ![Banner](https://github.com/Adityakanoi2001/Adityakanoi2001/blob/8b3abf28d4d62728caf9ee9c177f48b058cbb997/assets/ASK%20Banner%20Image%20Github.png)-->
 <img src="https://www.codewars.com/users/dgonzalez-ops/badges/large" alt="Diego Gonzalez Codewars Kyu">
 
 ## 👨🏻‍💻 &nbsp;About Me
